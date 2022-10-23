@@ -1,0 +1,11 @@
+C:\Users\JYOTI\source\repos\task\task\bin\Debug\task.exe.config
+C:\Users\JYOTI\source\repos\task\task\bin\Debug\task.exe
+C:\Users\JYOTI\source\repos\task\task\bin\Debug\task.pdb
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.csproj.SuggestedBindingRedirects.cache
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.Form1.resources
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.Properties.Resources.resources
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.csproj.GenerateResource.cache
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.exe
+C:\Users\JYOTI\source\repos\task\task\obj\Debug\task.pdb
